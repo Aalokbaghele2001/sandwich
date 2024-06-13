@@ -1,0 +1,257 @@
+{ 
+  "sandwich":[
+  {
+    "id": 1,
+    "dish": "Grilled Cheese Sandwich",
+    "image": "https://www.example.com/grilled_cheese_sandwich.jpg",
+    "price": 79,
+    "type": "Vegetarian",
+    "desc": "Melted cheddar cheese layered between slices of crispy grilled bread.",
+    "rating": 4.5,
+    "category": "sandwich",
+    "restaurant": {
+      "name": "Cheesy Bites",
+      "address": "123 Cheese Street, Mumbai",
+      "timing": "10:00 AM - 8:00 PM",
+      "offers": "Free drink with every sandwich",
+      "rating": 4.6,
+      "about": "Cheesy Bites specializes in a variety of cheesy delights, including classic grilled cheese sandwiches."
+    }
+  },
+  {
+    "id": 2,
+    "dish": "Club Sandwich",
+    "image": "https://www.example.com/clubsandwich.jpg",
+    "price": 129,
+    "type": "Non-Vegetarian",
+    "desc": "Triple-layered sandwich with layers of grilled chicken, crispy bacon, lettuce, tomato, and mayonnaise.",
+    "rating": 4.7,
+    "category": "sandwich",
+    "restaurant": {
+      "name": "Clubhouse Deli",
+      "address": "456 Club Lane, Delhi",
+      "timing": "11:00 AM - 9:00 PM",
+      "offers": "10% off on orders above Rs. 300",
+      "rating": 4.8,
+      "about": "Clubhouse Deli offers a variety of sandwiches and wraps, perfect for a quick and satisfying meal."
+    }
+  },
+  {
+    "id": 3,
+    "dish": "Paneer Tikka Sandwich",
+    "image": "https://www.example.com/paneer_tikka_sandwich.jpg",
+    "price": 109,
+    "type": "Vegetarian",
+    "desc": "Spicy paneer tikka pieces stuffed between slices of toasted bread, with mint chutney and vegetables.",
+    "rating": 4.6,
+    "category": "sandwich",
+    "restaurant": {
+      "name": "Tikka Twist",
+      "address": "789 Paneer Road, Bangalore",
+      "timing": "12:00 PM - 10:00 PM",
+      "offers": "Free fries with every sandwich",
+      "rating": 4.7,
+      "about": "Tikka Twist specializes in delicious paneer tikka-inspired dishes, including sandwiches and wraps."
+    }
+  },
+  {
+    "id": 4,
+    "dish": "Egg Salad Sandwich",
+    "image": "https://www.example.com/eggsalad_sandwich.jpg",
+    "price": 99,
+    "type": "Non-Vegetarian",
+    "desc": "Creamy egg salad with mayonnaise, mustard, and fresh lettuce, served on whole wheat bread.",
+    "rating": 4.5,
+    "category": "sandwich",
+    "restaurant": {
+      "name": "Eggcellent Eats",
+      "address": "234 Egg Street, Pune",
+      "timing": "10:30 AM - 8:30 PM",
+      "offers": "Buy 1 Get 1 Free on all sandwiches",
+      "rating": 4.6,
+      "about": "Eggcellent Eats offers a wide range of egg-based dishes, including hearty egg salad sandwiches."
+    }
+  },
+  {
+    "id": 5,
+    "dish": "Veggie Delight Sandwich",
+    "image": "https://www.example.com/veggiedelight_sandwich.jpg",
+    "price": 89,
+    "type": "Vegetarian",
+    "desc": "A medley of fresh vegetables such as cucumbers, bell peppers, tomatoes, and lettuce, with a spread of hummus.",
+    "rating": 4.4,
+    "category": "sandwich",
+    "restaurant": {
+      "name": "Fresh Bites",
+      "address": "567 Garden Avenue, Kolkata",
+      "timing": "11:00 AM - 9:00 PM",
+      "offers": "10% off on online orders",
+      "rating": 4.5,
+      "about": "Fresh Bites offers a variety of fresh and healthy sandwiches, perfect for a light and nutritious meal."
+    }
+  },
+  {
+    "id": 6,
+    "dish": "Chicken BBQ Sandwich",
+    "image": "https://www.example.com/chickenbbq_sandwich.jpg",
+    "price": 139,
+    "type": "Non-Vegetarian",
+    "desc": "Tender pieces of grilled chicken tossed in tangy BBQ sauce, with lettuce and sliced onions on a toasted bun.",
+    "rating": 4.7,
+    "category": "sandwich",
+    "restaurant": {
+      "name": "BBQ Bites",
+      "address": "123 BBQ Lane, Chennai",
+      "timing": "12:00 PM - 10:00 PM",
+      "offers": "Free drink with every sandwich",
+      "rating": 4.8,
+      "about": "BBQ Bites specializes in delicious BBQ-inspired sandwiches and burgers, with a focus on quality ingredients."
+    }
+  },
+  {
+    "id": 7,
+    "dish": "Caprese Sandwich",
+    "image": "https://www.example.com/caprese_sandwich.jpg",
+    "price": 119,
+    "type": "Vegetarian",
+    "desc": "Fresh mozzarella, tomato slices, and basil leaves with a drizzle of balsamic glaze on ciabatta bread.",
+    "rating": 4.6,
+    "category": "sandwich",
+    "restaurant": {
+      "name": "Italian Delights",
+      "address": "234 Basil Street, Goa",
+      "timing": "11:00 AM - 9:00 PM",
+      "offers": "10% off on all Italian sandwiches",
+      "rating": 4.7,
+      "about": "Italian Delights offers a taste of Italy with a variety of sandwiches and paninis, including the classic Caprese."
+    }
+  },
+  {
+    "id": 8,
+    "dish": "Turkey and Avocado Sandwich",
+    "image": "https://www.example.com/turkeyavocado_sandwich.jpg",
+    "price": 149,
+    "type": "Non-Vegetarian",
+    "desc": "Slices of roasted turkey breast with creamy avocado, lettuce, tomato, and mayonnaise on whole grain bread.",
+    "rating": 4.5,
+    "category": "sandwich",
+    "restaurant": {
+      "name": "Avocado Avenue",
+      "address": "789 Turkey Lane, Jaipur",
+      "timing": "12:00 PM - 10:00 PM",
+      "offers": "Free chips with every sandwich",
+      "rating": 4.6,
+      "about": "Avocado Avenue offers a selection of sandwiches and wraps featuring fresh avocados and quality meats."
+    }
+  },
+  {
+    "id": 9,
+    "dish": "Mushroom Melt Sandwich",
+    "image": "https://www.example.com/mushroommelt_sandwich.jpg",
+    "price": 129,
+    "type": "Vegetarian",
+    "desc": "Sautéed mushrooms and melted Swiss cheese on toasted whole grain bread.",
+    "rating": 4.4,
+    "category": "sandwich",
+    "restaurant": {
+      "name": "Mushroom Magic",
+      "address": "456 Swiss Street, Lucknow",
+      "timing": "11:30 AM - 9:30 PM",
+      "offers": "10% off on all mushroom sandwiches",
+      "rating": 4.5,
+      "about": "Mushroom Magic specializes in savory mushroom-based dishes, including the popular Mushroom Melt sandwich."
+    }
+  },
+  {
+    "id": 10,
+    "dish": "Tuna Salad Sandwich",
+    "image": "https://www.example.com/tunasalad_sandwich.jpg",
+    "price": 139,
+    "type": "Non-Vegetarian",
+    "desc": "Flaked tuna mixed with mayonnaise, celery, and onions, served with lettuce on whole wheat bread.",
+    "rating": 4.6,
+    "category": "sandwich",
+    "restaurant": {
+      "name": "Tuna Twist",
+      "address": "567 Tuna Lane, Chandigarh",
+      "timing": "12:00 PM - 10:00 PM",
+      "offers": "Free side salad with every sandwich",
+      "rating": 4.7,
+      "about": "Tuna Twist offers a variety of tuna-inspired dishes, including hearty tuna salad sandwiches."
+    }
+  },
+  {
+    "id": 11,
+    "dish": "Pulled Pork Sandwich",
+    "image": "https://www.example.com/pulledpork_sandwich.jpg",
+    "price": 159,
+    "type": "Non-Vegetarian",
+    "desc": "Slow-cooked pulled pork with tangy BBQ sauce, topped with coleslaw on a toasted bun.",
+    "rating": 4.7,
+    "category": "sandwich",
+    "restaurant": {
+      "name": "Porky's Place",
+      "address": "234 BBQ Boulevard, Chandigarh",
+      "timing": "12:00 PM - 10:00 PM",
+      "offers": "Free drink with every sandwich",
+      "rating": 4.8,
+      "about": "Porky's Place specializes in mouth-watering BBQ dishes, including their signature pulled pork sandwich."
+    }
+  },
+  {
+    "id": 12,
+    "dish": "Veggie Wrap",
+    "image": "https://www.example.com/veggiewrap.jpg",
+    "price": 109,
+    "type": "Vegetarian",
+    "desc": "A wrap filled with assorted fresh vegetables, hummus, and a touch of mint yogurt sauce.",
+    "rating": 4.6,
+    "category": "sandwich",
+    "restaurant": {
+      "name": "Wrap 'n' Roll",
+      "address": "456 Wrap Street, Pune",
+      "timing": "11:30 AM - 9:30 PM",
+      "offers": "10% off on all wraps",
+      "rating": 4.7,
+      "about": "Wrap 'n' Roll offers a variety of wraps and sandwiches, featuring fresh and flavorful ingredients."
+    }
+  },
+  {
+    "id": 13,
+    "dish": "BBQ Chicken Sandwich",
+    "image": "https://www.example.com/bbqchicken_sandwich.jpg",
+    "price": 149,
+    "type": "Non-Vegetarian",
+    "desc": "Grilled chicken breast marinated in BBQ sauce, with lettuce, tomato, and mayo on a toasted bun.",
+    "rating": 4.6,
+    "category": "sandwich",
+    "restaurant": {
+      "name": "BBQ Grill",
+      "address": "789 Chicken Street, Kolkata",
+      "timing": "12:00 PM - 10:00 PM",
+      "offers": "Free fries with every sandwich",
+      "rating": 4.7,
+      "about": "BBQ Grill serves up delicious grilled dishes, including their popular BBQ chicken sandwich."
+    }
+  },
+  {
+    "id": 14,
+    "dish": "Mozzarella Pesto Panini",
+    "image": "https://www.example.com/mozzarellapesto_panini.jpg",
+    "price": 129,
+    "type": "Vegetarian",
+    "desc": "Fresh mozzarella cheese, basil pesto, and sliced tomatoes pressed between ciabatta bread.",
+    "rating": 4.5,
+    "category": "sandwich",
+    "restaurant": {
+      "name": "Pesto Delight",
+      "address": "890 Basil Lane, Mumbai",
+      "timing": "11:30 AM - 9:30 PM",
+      "offers": "10% off on all paninis",
+      "rating": 4.6,
+      "about": "Pesto Delight offers a range of sandwiches and paninis featuring their signature basil pesto sauce."
+    }
+  }
+]
+}
+
